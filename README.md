@@ -10,13 +10,6 @@
 	<meta name="created" content="00:00:00">
 	<meta name="changedby" content="Leonardo Rocha">
 	<meta name="changed" content="2016-03-02T11:58:57.579596062">
-	<!--<style type="text/css">
-		@page { margin: 2cm }
-		p { margin-bottom: 0.25cm; line-height: 120% }
-		pre.cjk { font-family: "Courier New", monospace }
-		a:link { so-language: zxx }
-	</style>
-	</style> -->
 </head>
 <body lang="pt-BR" dir="ltr">
 <pre class="western"># C-ritas
