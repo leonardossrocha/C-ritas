@@ -16,7 +16,7 @@
 		pre.cjk { font-family: "Courier New", monospace }
 		a:link { so-language: zxx }
 	</style>
-	</style>-->
+	</style> -->
 </head>
 <body lang="pt-BR" dir="ltr">
 <pre class="western"># C-ritas
