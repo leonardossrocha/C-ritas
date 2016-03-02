@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!--<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">-->
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
@@ -15,6 +15,7 @@
 		p { margin-bottom: 0.25cm; line-height: 120% }
 		pre.cjk { font-family: "Courier New", monospace }
 		a:link { so-language: zxx }
+	</style>
 	</style>
 </head>
 <body lang="pt-BR" dir="ltr">
