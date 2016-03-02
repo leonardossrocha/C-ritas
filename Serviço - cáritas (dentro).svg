@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1062.9921"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Serviço - cáritas (dentro).svg"
+   inkscape:export-filename="/home/rocha/Documentos/Igreja/SPM/Folder2 - SPM.png"
+   inkscape:export-xdpi="156"
+   inkscape:export-ydpi="156">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3907">
+      <stop
+         style="stop-color:#ff0c0e;stop-opacity:1;"
+         offset="0"
+         id="stop3909" />
+      <stop
+         style="stop-color:#ff0c0e;stop-opacity:0;"
+         offset="1"
+         id="stop3911" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3274">
+      <stop
+         style="stop-color:#a0ff0d;stop-opacity:1;"
+         offset="0"
+         id="stop3276" />
+      <stop
+         style="stop-color:#a0ff0d;stop-opacity:0;"
+         offset="1"
+         id="stop3278" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4815">
+      <rect
+         style="fill:#1d3d2e;fill-opacity:1;fill-rule:nonzero;stroke:#1d3d2e;stroke-width:1;stroke-miterlimit:1;stroke-opacity:0;stroke-dasharray:none"
+         id="rect4817"
+         width="26.306658"
+         height="26.708284"
+         x="-505.26447"
+         y="-182.53847"
+         transform="matrix(0.6533704,-0.75703839,-0.75703839,-0.6533704,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4821">
+      <rect
+         style="fill:#1d3d2e;fill-opacity:1;fill-rule:nonzero;stroke:#1d3d2e;stroke-width:1;stroke-miterlimit:1;stroke-opacity:0;stroke-dasharray:none"
+         id="rect4823"
+         width="32.130268"
+         height="28.91724"
+         x="-408.78314"
+         y="-331.00964"
+         transform="matrix(0.86349614,-0.50435544,-0.50435544,-0.86349614,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4858">
+      <path
+         style="fill:#1d3d2e;fill-opacity:1;fill-rule:nonzero;stroke:#1d3d2e;stroke-width:1;stroke-miterlimit:1;stroke-opacity:0"
+         d="m -167.97771,485.61216 -1.25653,-6.17393 c -4.16422,-4.6041 -9.37603,-9.6516 -15.85409,-20.87605 l -28.07722,5.71435 5.96688,29.31799 z"
+         id="path4860"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3274"
+       id="linearGradient3280"
+       x1="184.37389"
+       y1="1039.3782"
+       x2="186.9707"
+       y2="296.689"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97075234,0,0,0.99876417,0.00231075,1.3005373)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3907"
+       id="radialGradient3937"
+       cx="886.03925"
+       cy="504.5752"
+       fx="886.03925"
+       fy="504.5752"
+       r="177.16536"
+       gradientTransform="matrix(-0.00771737,11.206391,-2.0999994,-0.00143646,1598.154,-9617.316)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3907"
+       id="linearGradient3115"
+       gradientUnits="userSpaceOnUse"
+       x1="521.64197"
+       y1="318.09818"
+       x2="523.00928"
+       y2="458.93466"
+       gradientTransform="translate(-354,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3907"
+       id="linearGradient3117"
+       gradientUnits="userSpaceOnUse"
+       x1="521.64197"
+       y1="318.09818"
+       x2="523.00928"
+       y2="458.93466"
+       gradientTransform="matrix(1.0027322,0,0,1,353.03221,0)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.73134456"
+     inkscape:cx="393.6621"
+     inkscape:cy="399.68282"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1100.36px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="mm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       y="-1052.3623"
+       x="708.66144"
+       height="744.09448"
+       width="354.33072"
+       id="rect5213"
+       style="fill:#ff0c0e;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3685"
+       width="354.33072"
+       height="744.09448"
+       x="708.66144"
+       y="308.26776" />
+    <rect
+       y="308.26782"
+       x="0"
+       height="744.09448"
+       width="354.33072"
+       id="rect3407"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffffff;stroke:none;fill-opacity:1"
+       id="rect3008"
+       width="354.33072"
+       height="744.09448"
+       x="0"
+       y="308.26776" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4214"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4216"><rect
+           id="rect4218"
+           width="349.94553"
+           height="140.76756"
+           x="5.2623386"
+           y="245.07784"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara4220" /></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect5237"
+       width="354.33072"
+       height="744.09448"
+       x="0"
+       y="-1052.3623"
+       transform="scale(1,-1)" />
+    <rect
+       y="308.26776"
+       x="708.66144"
+       height="744.09448"
+       width="354.33072"
+       id="rect3689"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       y="308.26776"
+       x="354.33072"
+       height="744.09448"
+       width="354.33072"
+       id="rect3010"
+       style="fill:url(#radialGradient3937);fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3691"
+       width="354.33072"
+       height="744.09448"
+       x="708.66144"
+       y="308.26776" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4157"
+       width="353.87161"
+       height="111.16758"
+       x="354.21149"
+       y="315.84082"
+       ry="27.45705" />
+    <rect
+       ry="27.45705"
+       y="315.84082"
+       x="0.21150032"
+       height="111.16758"
+       width="353.87161"
+       id="rect5469"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:url(#linearGradient3115);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3113"
+       width="353.87161"
+       height="111.16758"
+       x="0.21148682"
+       y="315.84082"
+       ry="27.45705" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3184"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:middle;text-align:center"
+       transform="matrix(1.2757925,0,0,1.2757925,-3.3073556,304.84757)"><flowRegion
+         id="flowRegion3186"><rect
+           id="rect3188"
+           width="256.65027"
+           height="83.220848"
+           x="10.938756"
+           y="11.197823"
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3192"
+         style="font-size:15.67653046999999944px;text-anchor:middle;text-align:center;-inkscape-font-specification:Arial Bold;font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1">SERVIÇO DE PROTEÇÃO SOCIAL ESPECIAL PARA PESSOAS COM DEFICIÊNCIA, IDOSAS E</flowPara><flowPara
+         id="flowPara3194"
+         style="font-size:15.67653046999999944px;text-anchor:middle;text-align:center;-inkscape-font-specification:Arial Bold;font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1">SUAS FAMÍLIAS</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3223"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3225"><rect
+           id="rect3227"
+           width="332.26471"
+           height="552.40717"
+           x="10.938756"
+           y="141.09555" /></flowRegion><flowPara
+         id="flowPara3229" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3267"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3269"><rect
+           id="rect3271"
+           width="326.79535"
+           height="186.64253"
+           x="12.989773"
+           y="151.35063" /></flowRegion><flowPara
+         id="flowPara3273" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3275"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3277"><rect
+           id="rect3279"
+           width="330.21371"
+           height="217.40778"
+           x="7.5203948"
+           y="146.56493" /></flowRegion><flowPara
+         id="flowPara3281" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3283"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(0,282.2677)"><flowRegion
+         id="flowRegion3285"><rect
+           id="rect3287"
+           width="326.11172"
+           height="212.72414"
+           x="15.04079"
+           y="149.98329"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial" /></flowRegion><flowPara
+         id="flowPara3289"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">    Trata-se de um serviço da Política de Assistência Social - Proteção Social Especial de Média Complexidade, que oferta atendimento e acompanhamento especializado às famílias de pessoas com deficiências e pessoas idosas com algum grau de dependência, que tiveram suas limitações agravadas por violação de direitos, tais como:</flowPara><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara3291" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara3293" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4065"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4067"><rect
+           id="rect4069"
+           width="279.62195"
+           height="425.92783"
+           x="47.173386"
+           y="271.67694" /></flowRegion><flowPara
+         id="flowPara4071" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4073"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:175%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(-18,364.2677)"><flowRegion
+         id="flowRegion4075"><rect
+           id="rect4077"
+           width="309.92804"
+           height="398.27521"
+           x="41.704006"
+           y="270.3096"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:175%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial" /></flowRegion><flowPara
+         id="flowPara4097"
+         style="font-size:14px">Exploração da imagem;</flowPara><flowPara
+         id="flowPara4099"
+         style="font-size:14px">Isolamento, confinamento;</flowPara><flowPara
+         id="flowPara4101"
+         style="font-size:14px">Atitudes discriminatórias e preconceituosas no âmbito familiar e/ou comunitário;</flowPara><flowPara
+         id="flowPara3119">Desvalorização da potencialidade/capacidade da pessoa;</flowPara><flowPara
+         id="flowPara3121">Violência física, psicológica, patrimonial/financeira e sexual;</flowPara><flowPara
+         id="flowPara3125">Ausência de cuidador(a);</flowPara><flowPara
+         id="flowPara4103">Falta e/ou dificuldades por parte do(a) cuidador(a) para prestar os cuidados adequados;</flowPara><flowPara
+         id="flowPara4105">Alto grau de estresse do(a) cuidador(a);</flowPara><flowPara
+         id="flowPara4111">Cuidador(a) com algum grau de limitação pessoal que fragiliza as relações de cuidados (saúde, idade, etc);</flowPara><flowPara
+         id="flowPara4113">Outras situações de violação de direitos;</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.2757925,0,0,1.2757925,354.69264,342.84757)"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4159"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4161"><rect
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="11.197823"
+           x="10.938756"
+           height="83.220848"
+           width="256.65027"
+           id="rect4163" /></flowRegion><flowPara
+         style="font-size:15.67653083999999986px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="flowPara4167">OBJETIVOS DO SERVIÇO</flowPara></flowRoot>    <flowRoot
+       transform="translate(340,184.2677)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:175%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot4171"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4173"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:175%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+           y="270.3096"
+           x="41.704006"
+           height="582.94525"
+           width="311.86176"
+           id="rect4175" /></flowRegion><flowPara
+         id="flowPara4193"
+         style="font-size:16px">Potencializar as relações familiares, comunitárias e sociais para a superação da situação de violação vivenciada;</flowPara><flowPara
+         id="flowPara4239"
+         style="font-size:16px">Prevenir o agravamento da situação de violação, a institucionalização e a segregação da pessoa com deficiência e/ou idosa;</flowPara><flowPara
+         id="flowPara4241"
+         style="font-size:16px">Promover acesso aos benefícios, programas de transferência de renda e outros serviços socioassistenciais, das demais políticas públicas setoriais e do Sistema de Garantia de Direitos;</flowPara><flowPara
+         id="flowPara4243"
+         style="font-size:16px">Apoiar a família para fortalecer sua função protetiva;</flowPara><flowPara
+         id="flowPara4245"
+         style="font-size:16px">Viabilizar o desenvolvimento da pessoa com deficiência e/ou idosa e o acesso aos serviços básicos;</flowPara><flowPara
+         id="flowPara4247"
+         style="font-size:16px">Prevenir às situações de sobrecarga e desgaste de vínculos devidos a tarefa prolongada do cuidar;</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path4259"
+       d="m 371.13001,472.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 371.13001,556.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       id="path4261"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4263"
+       d="m 371.13001,668.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 371.13001,780.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       id="path4265"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4267"
+       d="m 371.13001,862.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 371.13001,948.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       id="path4269"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4271"
+       width="354.33072"
+       height="111.16758"
+       x="708.66144"
+       y="315.84082"
+       ry="27.45705" />
+    <rect
+       ry="27.45705"
+       y="315.84082"
+       x="708.21149"
+       height="111.16758"
+       width="354.83847"
+       id="rect3111"
+       style="fill:url(#linearGradient3117);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <flowRoot
+       transform="matrix(1.2774477,0,0,1.2757925,709.138,316.84757)"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4273"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4275"><rect
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="11.197823"
+           x="10.938756"
+           height="83.220848"
+           width="256.65027"
+           id="rect4277" /></flowRegion><flowPara
+         style="font-size:15.67653083999999986px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="flowPara4281">O ACOMPANHAMENTO DO SERVIÇO É OFERTADO ATRAVÉS DE AÇÕES DE:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4285"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:175%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(698,232.2677)"><flowRegion
+         id="flowRegion4287"><rect
+           id="rect4289"
+           width="312.82861"
+           height="572.30975"
+           x="41.704006"
+           y="270.3096"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:175%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial" /></flowRegion><flowPara
+         id="flowPara4291"
+         style="font-size:16px">Atendimentos particularizados e/ou em grupos;</flowPara><flowPara
+         id="flowPara4293"
+         style="font-size:16px" /><flowPara
+         id="flowPara4295"
+         style="font-size:16px">Atendimentos domiciliares;</flowPara><flowPara
+         id="flowPara4297"
+         style="font-size:16px" /><flowPara
+         id="flowPara4299"
+         style="font-size:16px">Visitas institucionais;</flowPara><flowPara
+         id="flowPara4301"
+         style="font-size:16px" /><flowPara
+         id="flowPara4303"
+         style="font-size:16px">Acompanhamento familiar sistemático;</flowPara><flowPara
+         id="flowPara4305"
+         style="font-size:16px" /><flowPara
+         id="flowPara4307"
+         style="font-size:16px">Articulação com rede de serviços socioassistenciais e demais políticas públicas;</flowPara><flowPara
+         id="flowPara4309"
+         style="font-size:16px" /><flowPara
+         id="flowPara4311"
+         style="font-size:16px">Articulação com os órgãos do Sistema de Garantia de Direitos, destacando, Ministério Público, Poder Judiciário, Defensoria Pública e Conselho Tutelar;</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 729.13001,520.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       id="path4313"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4315"
+       d="m 729.13001,602.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 729.13001,660.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       id="path4317"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4319"
+       d="m 729.13001,716.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 729.13001,772.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       id="path4321"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4323"
+       d="m 729.13001,884.04271 2.57798,2.57798 5.47821,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11.130006,650.04271 2.577983,2.57798 5.478213,-6.7672 0,0"
+       id="path3295"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4115"
+       d="m 11.130006,674.04271 2.577983,2.57798 5.478213,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11.130006,698.04271 2.577983,2.57798 5.478213,-6.7672 0,0"
+       id="path4117"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4119"
+       d="m 11.130006,746.04271 2.577983,2.57798 5.478213,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4123"
+       d="m 11.130006,846.04271 2.577983,2.57798 5.478213,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11.130006,944.04271 2.577983,2.57798 5.478213,-6.7672 0,0"
+       id="path4125"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11.130006,796.0427 2.577983,2.578 5.478213,-6.7672 0,0"
+       id="path4129"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11.130006,1016.0427 2.577983,2.578 5.478213,-6.7672 0,0"
+       id="path3127"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 11.130006,870.04271 2.577983,2.57798 5.478213,-6.7672 0,0"
+       id="path3151"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3153"
+       d="m 11.130006,918.04271 2.577983,2.57798 5.478213,-6.7672 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1.69685423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
