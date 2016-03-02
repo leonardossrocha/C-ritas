@@ -10,13 +10,13 @@
 	<meta name="created" content="00:00:00">
 	<meta name="changedby" content="Leonardo Rocha">
 	<meta name="changed" content="2016-03-02T11:58:57.579596062">
-	<style type="text/css">
+	<!--<style type="text/css">
 		@page { margin: 2cm }
 		p { margin-bottom: 0.25cm; line-height: 120% }
 		pre.cjk { font-family: "Courier New", monospace }
 		a:link { so-language: zxx }
 	</style>
-	</style>
+	</style>-->
 </head>
 <body lang="pt-BR" dir="ltr">
 <pre class="western"># C-ritas
@@ -38,9 +38,11 @@ Inkscape
 _______________________________________________________________________________
 Doação / Donation
 
-Se você gostou do meu trabalho por favor me ajude com alguma contribuição. Acesse este <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3YQ6NFUSN5UQS">link</a> (Você não precisa ter uma conta para fazer uma doação)
+Se você gostou do meu trabalho por favor me ajude com alguma contribuição. 
+Acesse este <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3YQ6NFUSN5UQS">link</a> (Você não precisa ter uma conta para fazer uma doação)
 
-If you like my work please help me with a small donation. Follow this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3YQ6NFUSN5UQS">link</a> (you don't nedd to have account to make a donation)
+If you like my work please help me with a small donation. 
+Follow this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3YQ6NFUSN5UQS">link</a> (you don't nedd to have account to make a donation)
 
 ______________________________________________________________________________
 Problemas e dúvidas / Bug and questions
