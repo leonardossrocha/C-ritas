@@ -35,7 +35,7 @@ Se você gostou do meu trabalho por favor me ajude com alguma contribuição.
 Acesse este <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3YQ6NFUSN5UQS">link</a> (Você não precisa ter uma conta para fazer uma doação)
 
 If you like my work please help me with a small donation. 
-Follow this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3YQ6NFUSN5UQS">link</a> (you don't nedd to have account to make a donation)
+Visit this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3YQ6NFUSN5UQS">link</a> (you don't nedd to have account to make a donation)
 
 ______________________________________________________________________________
 Problemas e dúvidas / Bug and questions
